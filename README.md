@@ -1,4 +1,4 @@
-# 🐍 Basic Python Programs
+## 🐍 Basic Python Programs
 
 This repository contains **15 basic Python programs** designed for beginners.  
 It helps students understand Python fundamentals through simple and clear examples.
